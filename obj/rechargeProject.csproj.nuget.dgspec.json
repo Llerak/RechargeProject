@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RechargeProject\\rechargeProject\\rechargeProject.csproj": {}
+    "D:\\RechargeProject\\rechargeProject.csproj": {}
   },
   "projects": {
-    "D:\\RechargeProject\\rechargeProject\\rechargeProject.csproj": {
+    "D:\\RechargeProject\\rechargeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RechargeProject\\rechargeProject\\rechargeProject.csproj",
+        "projectUniqueName": "D:\\RechargeProject\\rechargeProject.csproj",
         "projectName": "rechargeProject",
-        "projectPath": "D:\\RechargeProject\\rechargeProject\\rechargeProject.csproj",
+        "projectPath": "D:\\RechargeProject\\rechargeProject.csproj",
         "packagesPath": "C:\\Users\\Llerak\\.nuget\\packages\\",
-        "outputPath": "D:\\RechargeProject\\rechargeProject\\obj\\",
+        "outputPath": "D:\\RechargeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Llerak\\AppData\\Roaming\\NuGet\\NuGet.Config"
