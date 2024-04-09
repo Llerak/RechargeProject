@@ -1,8 +1,14 @@
+.bg-white{
+    background-color: white;
+}
 .bg-gray{
     background-color: gray;
 }
 .bg-blue{
-    background-color: blue;
+    background-color: #2170cd;
+}
+.bg-blue-dark{
+    background-color: #1b457b;
 }
 .bg-red{
     background-color: red;
